@@ -1,5 +1,4 @@
-# DevOps_test_task
-_1
+# DevOps_test_task_1
 Build your own load balancer based on Nginx in the container.
 
 Нужно собрать свой Load Balancer на базе Nginx в виде контейнера
